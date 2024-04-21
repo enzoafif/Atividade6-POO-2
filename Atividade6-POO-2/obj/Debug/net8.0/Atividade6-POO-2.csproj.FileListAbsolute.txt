@@ -1,0 +1,14 @@
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\bin\Debug\net8.0\Atividade6-POO-2.exe
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\bin\Debug\net8.0\Atividade6-POO-2.deps.json
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\bin\Debug\net8.0\Atividade6-POO-2.runtimeconfig.json
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\bin\Debug\net8.0\Atividade6-POO-2.dll
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\bin\Debug\net8.0\Atividade6-POO-2.pdb
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.dll
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\refint\Atividade6-POO-2.dll
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.pdb
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\Atividade6-POO-2.genruntimeconfig.cache
+C:\Users\Enzo\source\repos\Atividade6-POO-2\Atividade6-POO-2\obj\Debug\net8.0\ref\Atividade6-POO-2.dll
